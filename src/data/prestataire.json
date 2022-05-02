@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "designation": "ABCD",
+    "telephone": "243827485588",
+    "email": "email@email.com",
+    "adresse": "Kinshasa-Gombe",
+    "gerant": "Gerant A",
+    "forme_juridique": {
+        "id": 1,
+        "libelle": "SARL"
+    },
+    "secteur_intervention":
+        {
+            "id": 1,
+            "libelle": "Secteur A"
+        }
+    
+}
